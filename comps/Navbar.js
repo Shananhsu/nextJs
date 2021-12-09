@@ -8,13 +8,13 @@ const Navbar = () => {
         <Image src="/logo.svg" width={128} height={77}/>
       </div>
       <Link href="/">
-        <a>Home</a>
+        <a>首頁</a>
       </Link>
       <Link href="/about">
-        <a>About</a>
+        <a>關於我</a>
       </Link>
       <Link href="/ninjas">
-        <a>Nijias Listing</a>
+        <a>人物介紹</a>
       </Link>
     </nav>
   );

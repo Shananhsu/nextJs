@@ -11,7 +11,7 @@ export default function Home() {
         <meta name="keywords" content="Shananhsu"/>
       </Head>
       <div>
-        <h1 className={styles.title}>HomePage</h1>
+        <h1 className={styles.title}>小型Demo</h1>
         <p className={styles.title}>
           Demo所使用的前端技能
         </p>

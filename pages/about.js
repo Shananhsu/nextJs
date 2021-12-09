@@ -8,7 +8,7 @@ const About = () => {
         <meta name="keywords" content="Shananhsu"/>
       </Head>
     <div>
-      <h1>About</h1>
+      <h1>關於Shan</h1>
       <p>
         姓名：單安緒 (Shananhsu)
       </p>
