@@ -1,7 +1,7 @@
 const Footer = () => {
     return ( 
         <footer>
-            Copyright 2021 Nijias List
+            Copyright 2021 Shananhsu
         </footer>
      );
 }
