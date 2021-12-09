@@ -13,10 +13,19 @@ export default function Home() {
       <div>
         <h1 className={styles.title}>HomePage</h1>
         <p className={styles.title}>
-          關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我
+          Demo所使用的前端技能
         </p>
         <p className={styles.title}>
-          關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我關於我
+          React.js
+        </p>
+        <p className={styles.title}>
+          Next.js
+        </p>
+        <p className={styles.title}>
+          css.module
+        </p>
+        <p className={styles.title}>
+          Node.js/async/await
         </p>
         <Link href="/ninjas">
           <a className={styles.btn}>See ninjas Listing</a>

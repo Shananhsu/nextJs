@@ -15,7 +15,8 @@ export const getStaticProps = async () => {
 const Nijias = ({ninjas}) => {
   return (
     <div>
-      <h1>All Nijias</h1>
+      <h1>一群不知名的人物介紹．．．．
+      </h1>
       {ninjas.map(ninja => (
           <Link href={'/ninjas/' + ninja.id} key={ninja.id}> 
               <a className={styles.single}>
